@@ -294,6 +294,22 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-1.6.0/bin" />
       </excluded>
     </library>
+    <library name="cocoapods (v1.6.1, ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-1.6.1/bin" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-1.6.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-1.6.1/bin" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-1.6.1/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-1.6.1/bin" />
+      </excluded>
+    </library>
     <library name="cocoapods-binary (v0.4.1, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1709,6 +1725,17 @@
       <excluded>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/pry-0.12.2/bin" />
       </excluded>
+    </library>
+    <library name="pry-nav (v0.3.0, ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/pry-nav-0.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/pry-nav-0.3.0/lib" />
+      </SOURCES>
     </library>
     <library name="psych (v2.1.0.1, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
