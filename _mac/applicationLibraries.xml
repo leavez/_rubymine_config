@@ -658,6 +658,22 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-try-1.1.0/spec" />
       </excluded>
     </library>
+    <library name="coderay (v1.1.2, ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/coderay-1.1.2/bin" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/coderay-1.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/coderay-1.1.2/bin" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/coderay-1.1.2/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/coderay-1.1.2/bin" />
+      </excluded>
+    </library>
     <library name="colored2 (v3.1.2, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1276,6 +1292,22 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/metaclass-0.0.4/test" />
       </excluded>
     </library>
+    <library name="method_source (v0.9.2, ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/method_source-0.9.2/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/method_source-0.9.2/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/method_source-0.9.2/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/method_source-0.9.2/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/method_source-0.9.2/spec" />
+      </excluded>
+    </library>
     <library name="minitest (v5.11.1, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1661,6 +1693,22 @@
       </properties>
       <CLASSES />
       <SOURCES />
+    </library>
+    <library name="pry (v0.12.2, ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/pry-0.12.2/bin" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/pry-0.12.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/pry-0.12.2/bin" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/pry-0.12.2/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/pry-0.12.2/bin" />
+      </excluded>
     </library>
     <library name="psych (v2.1.0.1, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
