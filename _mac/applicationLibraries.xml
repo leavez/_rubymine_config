@@ -419,6 +419,17 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-deintegrate-1.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="cocoapods-deintegrate (v1.0.3, ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-deintegrate-1.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-deintegrate-1.0.3/lib" />
+      </SOURCES>
+    </library>
     <library name="cocoapods-deintegrate (v1.0.4, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1012,6 +1023,22 @@
       </SOURCES>
       <excluded>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/fourflusher-2.0.1/bin" />
+      </excluded>
+    </library>
+    <library name="fourflusher (v2.2.0, ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fourflusher-2.2.0/bin" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fourflusher-2.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fourflusher-2.2.0/bin" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fourflusher-2.2.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/fourflusher-2.2.0/bin" />
       </excluded>
     </library>
     <library name="fourflusher (v2.3.1, ruby-2.3.7-p456) [gem]" type="rubylib">
@@ -2459,6 +2486,22 @@
       </SOURCES>
       <excluded>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/xcodeproj-1.7.0/bin" />
+      </excluded>
+    </library>
+    <library name="xcodeproj (v1.8.1, ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/xcodeproj-1.8.1/bin" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/xcodeproj-1.8.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/xcodeproj-1.8.1/bin" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/xcodeproj-1.8.1/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/xcodeproj-1.8.1/bin" />
       </excluded>
     </library>
     <library name="xcodeproj (v1.8.2, ruby-2.3.7-p456) [gem]" type="rubylib">
