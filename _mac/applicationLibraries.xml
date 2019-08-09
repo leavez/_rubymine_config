@@ -557,6 +557,25 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-keys-2.0.6/templates" />
       </excluded>
     </library>
+    <library name="cocoapods-packager (v1.5.0, ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-packager-1.5.0/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-packager-1.5.0/spec" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-packager-1.5.0/scripts" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-packager-1.5.0/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-packager-1.5.0/spec" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-packager-1.5.0/scripts" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-packager-1.5.0/spec" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-packager-1.5.0/scripts" />
+      </excluded>
+    </library>
     <library name="cocoapods-plugins (v1.0.0, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
