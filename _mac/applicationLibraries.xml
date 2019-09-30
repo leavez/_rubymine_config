@@ -810,6 +810,22 @@
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-fast-install-0.0.3/spec" />
       </excluded>
     </library>
+    <library name="cocoapods-fix-module (v0.0.7, ruby-2.6.4-p104) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-fix-module-0.0.7/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-fix-module-0.0.7/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-fix-module-0.0.7/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-fix-module-0.0.7/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-fix-module-0.0.7/spec" />
+      </excluded>
+    </library>
     <library name="cocoapods-keep-multiversion-cache (v0.0.2, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
