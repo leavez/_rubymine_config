@@ -150,13 +150,6 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="bigdecimal (v1.4.1, ruby-2.6.2-p47) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
     <library name="bundler (v2.0.2, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -219,13 +212,6 @@
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/claide-1.0.2/lib" />
       </SOURCES>
-    </library>
-    <library name="cmath (v1.0.0, ruby-2.6.2-p47) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
     </library>
     <library name="cocoapods (v1.3.1, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
@@ -808,20 +794,6 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/concurrent-ruby-1.1.5/ext" />
       </excluded>
     </library>
-    <library name="date (v2.0.0, ruby-2.6.2-p47) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="dbm (v1.0.0, ruby-2.6.2-p47) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
     <library name="debase (v0.2.2, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -975,13 +947,6 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/dotenv-2.5.0/bin" />
       </excluded>
     </library>
-    <library name="e2mmap (v0.1.0, ruby-2.6.2-p47) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
     <library name="escape (v0.0.4, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -997,41 +962,6 @@
       <excluded>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/escape-0.0.4/doc_include" />
       </excluded>
-    </library>
-    <library name="etc (v1.0.1, ruby-2.6.2-p47) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="fcntl (v1.0.0, ruby-2.6.2-p47) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="fiddle (v1.0.0, ruby-2.6.2-p47) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="fileutils (v1.1.0, ruby-2.6.2-p47) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="forwardable (v1.2.0, ruby-2.6.2-p47) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
     </library>
     <library name="fourflusher (v2.0.1, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
@@ -1312,20 +1242,6 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="io-console (v0.4.7, ruby-2.6.2-p47) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="ipaddr (v1.2.2, ruby-2.6.2-p47) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
     <library name="jaro_winkler (v1.5.3, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1402,20 +1318,6 @@
       <excluded>
         <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/gems/2.3.0/gems/libxml-ruby-2.9.0/ext" />
       </excluded>
-    </library>
-    <library name="logger (v1.3.0, ruby-2.6.2-p47) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="matrix (v0.1.0, ruby-2.6.2-p47) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
     </library>
     <library name="metaclass (v0.0.4, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
@@ -1617,13 +1519,6 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/multi_xml-0.6.0/lib" />
       </SOURCES>
     </library>
-    <library name="mutex_m (v0.1.0, ruby-2.6.2-p47) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
     <library name="nanaimo (v0.2.3, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1767,20 +1662,6 @@
         <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/gems/2.3.0/gems/nokogiri-1.5.6/tasks" />
       </excluded>
     </library>
-    <library name="openssl (v2.1.2, ruby-2.6.2-p47) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="ostruct (v0.1.0, ruby-2.6.2-p47) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
     <library name="osx_keychain (v1.0.2, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1862,13 +1743,6 @@
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/prettybacon-0.0.2/lib" />
       </SOURCES>
-    </library>
-    <library name="prime (v0.1.0, ruby-2.6.2-p47) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
     </library>
     <library name="pry (v0.12.2, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
@@ -2232,27 +2106,6 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/RubyInline-3.12.4/tutorial" />
       </excluded>
     </library>
-    <library name="scanf (v1.0.0, ruby-2.6.2-p47) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="sdbm (v1.0.0, ruby-2.6.2-p47) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="shell (v0.7, ruby-2.6.2-p47) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
     <library name="solargraph (v0.34.1, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2293,27 +2146,6 @@
         <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/gems/2.3.0/gems/sqlite3-1.3.11/faq" />
         <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/gems/2.3.0/gems/sqlite3-1.3.11/tasks" />
       </excluded>
-    </library>
-    <library name="stringio (v0.0.2, ruby-2.6.2-p47) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="strscan (v1.0.0, ruby-2.6.2-p47) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="sync (v0.5.0, ruby-2.6.2-p47) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
     </library>
     <library name="terminal-table (v1.8.0, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
@@ -2397,13 +2229,6 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/thread_safe-0.3.6/yard-template" />
       </excluded>
     </library>
-    <library name="thwait (v0.1.0, ruby-2.6.2-p47) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
-    </library>
     <library name="tilt (v2.0.9, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2428,13 +2253,6 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/tilt-2.0.9/docs" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/tilt-2.0.9/test" />
       </excluded>
-    </library>
-    <library name="tracer (v0.1.0, ruby-2.6.2-p47) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
     </library>
     <library name="tzinfo (v1.2.4, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
@@ -2672,13 +2490,6 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/ZenTest-4.11.1/test" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/ZenTest-4.11.1/articles" />
       </excluded>
-    </library>
-    <library name="zlib (v1.0.0, ruby-2.6.2-p47) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES />
-      <SOURCES />
     </library>
   </component>
 </application>
