@@ -251,6 +251,25 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="bundler (v1.17.0, ruby-2.6.4-p104) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/bundler-1.17.0/exe" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/bundler-1.17.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/bundler-1.17.0/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/bundler-1.17.0/exe" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/bundler-1.17.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/bundler-1.17.0/man" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/bundler-1.17.0/exe" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/bundler-1.17.0/man" />
+      </excluded>
+    </library>
     <library name="bundler (v1.17.3, ruby-2.6.4-p104) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
