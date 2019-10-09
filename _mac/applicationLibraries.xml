@@ -471,22 +471,6 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-1.5.3/bin" />
       </excluded>
     </library>
-    <library name="cocoapods (v1.5.3, ruby-2.6.4-p104) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-1.5.3/bin" />
-        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-1.5.3/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-1.5.3/bin" />
-        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-1.5.3/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-1.5.3/bin" />
-      </excluded>
-    </library>
     <library name="cocoapods (v1.6.0, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -519,36 +503,20 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-1.6.1/bin" />
       </excluded>
     </library>
-    <library name="cocoapods (v1.6.1, ruby-2.6.4-p104) [gem]" type="rubylib">
+    <library name="cocoapods (v1.8.3, ruby-2.6.4-p104) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-1.6.1/bin" />
-        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-1.6.1/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-1.8.3/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-1.8.3/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-1.6.1/bin" />
-        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-1.6.1/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-1.8.3/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-1.8.3/lib" />
       </SOURCES>
       <excluded>
-        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-1.6.1/bin" />
-      </excluded>
-    </library>
-    <library name="cocoapods (v1.8.1, ruby-2.6.4-p104) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-1.8.1/bin" />
-        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-1.8.1/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-1.8.1/bin" />
-        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-1.8.1/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-1.8.1/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-1.8.3/bin" />
       </excluded>
     </library>
     <library name="cocoapods-binary (v0.4.1, ruby-2.3.7-p456) [gem]" type="rubylib">
@@ -669,6 +637,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-core-1.8.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="cocoapods-core (v1.8.3, ruby-2.6.4-p104) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-core-1.8.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-core-1.8.3/lib" />
       </SOURCES>
     </library>
     <library name="cocoapods-deintegrate (v1.0.1, ruby-2.3.7-p456) [gem]" type="rubylib">
