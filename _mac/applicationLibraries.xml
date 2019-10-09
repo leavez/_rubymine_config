@@ -1295,6 +1295,22 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/colorize-0.8.1/test" />
       </excluded>
     </library>
+    <library name="colorize (v0.8.1, ruby-2.6.4-p104) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/colorize-0.8.1/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/colorize-0.8.1/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/colorize-0.8.1/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/colorize-0.8.1/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/colorize-0.8.1/test" />
+      </excluded>
+    </library>
     <library name="concurrent-ruby (v1.0.5, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1923,6 +1939,28 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/Grass-0.1.0/exe" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/Grass-0.1.0/.idea" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/Grass-0.1.0/resources" />
+      </excluded>
+    </library>
+    <library name="Grass (v0.2.0, ruby-2.6.4-p104) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/Grass-0.2.0/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/Grass-0.2.0/exe" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/Grass-0.2.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/Grass-0.2.0/resources" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/Grass-0.2.0/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/Grass-0.2.0/exe" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/Grass-0.2.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/Grass-0.2.0/resources" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/Grass-0.2.0/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/Grass-0.2.0/exe" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/Grass-0.2.0/resources" />
       </excluded>
     </library>
     <library name="htmlentities (v4.3.4, ruby-2.3.7-p456) [gem]" type="rubylib">
@@ -2686,6 +2724,28 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/net-ping-2.0.5/examples" />
       </excluded>
     </library>
+    <library name="net-ping (v2.0.6, ruby-2.6.4-p104) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/net-ping-2.0.6/doc" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/net-ping-2.0.6/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/net-ping-2.0.6/test" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/net-ping-2.0.6/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/net-ping-2.0.6/doc" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/net-ping-2.0.6/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/net-ping-2.0.6/test" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/net-ping-2.0.6/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/net-ping-2.0.6/doc" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/net-ping-2.0.6/test" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/net-ping-2.0.6/examples" />
+      </excluded>
+    </library>
     <library name="net-telnet (v0.1.1, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3140,6 +3200,31 @@
         <root url="file:///usr/local/Cellar/ruby/2.6.4_2/lib/ruby/gems/2.6.0/gems/rake-12.3.2/bin" />
         <root url="file:///usr/local/Cellar/ruby/2.6.4_2/lib/ruby/gems/2.6.0/gems/rake-12.3.2/doc" />
         <root url="file:///usr/local/Cellar/ruby/2.6.4_2/lib/ruby/gems/2.6.0/gems/rake-12.3.2/exe" />
+      </excluded>
+    </library>
+    <library name="rake (v13.0.0, ruby-2.6.4-p104) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/rake-13.0.0/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/rake-13.0.0/doc" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/rake-13.0.0/exe" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/rake-13.0.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/rake-13.0.0/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/rake-13.0.0/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/rake-13.0.0/doc" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/rake-13.0.0/exe" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/rake-13.0.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/rake-13.0.0/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/rake-13.0.0/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/rake-13.0.0/doc" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/rake-13.0.0/exe" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/rake-13.0.0/.github" />
       </excluded>
     </library>
     <library name="rdoc (v4.2.1, ruby-2.3.7-p456) [gem]" type="rubylib">
