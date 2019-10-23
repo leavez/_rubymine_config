@@ -221,6 +221,22 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/bd_pod_extentions-6.3.0/bin" />
       </excluded>
     </library>
+    <library name="bd_pod_extentions (v6.3.0, ruby-2.6.4-p104) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/bd_pod_extentions-6.3.0/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/bd_pod_extentions-6.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/bd_pod_extentions-6.3.0/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/bd_pod_extentions-6.3.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/bd_pod_extentions-6.3.0/bin" />
+      </excluded>
+    </library>
     <library name="bd_pod_extentions (v6.4.0, ruby-2.6.4-p104) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -822,6 +838,41 @@
       </SOURCES>
       <excluded>
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-fix-module-0.0.7/spec" />
+      </excluded>
+    </library>
+    <library name="cocoapods-fix-module (v0.1.1, ruby-2.6.4-p104) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-fix-module-0.1.1/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-fix-module-0.1.1/DEMO" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-fix-module-0.1.1/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-fix-module-0.1.1/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-fix-module-0.1.1/DEMO" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-fix-module-0.1.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-fix-module-0.1.1/DEMO" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-fix-module-0.1.1/spec" />
+      </excluded>
+    </library>
+    <library name="cocoapods-fix-module (v0.2.0, ruby-2.6.4-p104) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-fix-module-0.2.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-fix-module-0.2.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-fix-module-0.2.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-fix-module-0.2.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-fix-module-0.2.0/spec" />
       </excluded>
     </library>
     <library name="cocoapods-keep-multiversion-cache (v0.0.2, ruby-2.3.7-p456) [gem]" type="rubylib">
@@ -2164,10 +2215,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/jaro_winkler/1.5.3" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/jaro_winkler-1.5.3/ext" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/jaro_winkler-1.5.3/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/jaro_winkler/1.5.3" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/jaro_winkler-1.5.3/ext" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/jaro_winkler-1.5.3/lib" />
       </SOURCES>
@@ -2224,6 +2277,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/json/2.2.0" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/json-2.2.0/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/json-2.2.0/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/json-2.2.0/java" />
@@ -2233,6 +2287,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/json-2.2.0/references" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/json/2.2.0" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/json-2.2.0/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/json-2.2.0/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/json-2.2.0/java" />
