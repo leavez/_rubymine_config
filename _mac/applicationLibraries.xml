@@ -983,6 +983,20 @@
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/bundler/gems/SwiftGeneratorProject-167c01fdfb14/scripts" />
       </excluded>
     </library>
+    <library name="cocoapods-packager (v2.7.0, ruby-2.6.4-p104) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-packager-2.7.0/DEMO" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-packager-2.7.0/DEMO" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-packager-2.7.0/DEMO" />
+      </excluded>
+    </library>
     <library name="cocoapods-plugins (v1.0.0, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
