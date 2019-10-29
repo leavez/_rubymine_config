@@ -1136,6 +1136,22 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-static-swift-framework-0.4/spec" />
       </excluded>
     </library>
+    <library name="cocoapods-static-swift-framework (v0.5, ruby-2.6.4-p104) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-static-swift-framework-0.5/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-static-swift-framework-0.5/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-static-swift-framework-0.5/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-static-swift-framework-0.5/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-static-swift-framework-0.5/spec" />
+      </excluded>
+    </library>
     <library name="cocoapods-stats (v1.0.0, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
