@@ -2346,6 +2346,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/json/2.2.0" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/json-2.2.0/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/json-2.2.0/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/json-2.2.0/java" />
@@ -2355,6 +2356,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/json-2.2.0/references" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/json/2.2.0" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/json-2.2.0/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/json-2.2.0/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/json-2.2.0/java" />
@@ -2505,6 +2507,25 @@
       <excluded>
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/LinkAgainstFinder-0.1.6/exe" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/LinkAgainstFinder-0.1.6/.idea" />
+      </excluded>
+    </library>
+    <library name="LinkAgainstFinder (v0.1.7, ruby-2.6.4-p104) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/LinkAgainstFinder-0.1.7/exe" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/LinkAgainstFinder-0.1.7/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/LinkAgainstFinder-0.1.7/.idea" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/LinkAgainstFinder-0.1.7/exe" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/LinkAgainstFinder-0.1.7/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/LinkAgainstFinder-0.1.7/.idea" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/LinkAgainstFinder-0.1.7/exe" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/LinkAgainstFinder-0.1.7/.idea" />
       </excluded>
     </library>
     <library name="macinbox (v3.3.0, ruby-2.6.4-p104) [gem]" type="rubylib">
