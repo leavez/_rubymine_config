@@ -886,6 +886,25 @@
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-fix-module-0.2.0/spec" />
       </excluded>
     </library>
+    <library name="cocoapods-fix_cache (v0.3.2, ruby-2.6.4-p104) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-fix_cache-0.3.2/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-fix_cache-0.3.2/DEMO" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-fix_cache-0.3.2/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-fix_cache-0.3.2/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-fix_cache-0.3.2/DEMO" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-fix_cache-0.3.2/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-fix_cache-0.3.2/DEMO" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-fix_cache-0.3.2/spec" />
+      </excluded>
+    </library>
     <library name="cocoapods-keep-multiversion-cache (v0.0.2, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2266,19 +2285,18 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file:///usr/local/Cellar/ruby/2.6.4_2/lib/ruby/2.6.0/irb/lc" />
-        <root url="file:///usr/local/Cellar/ruby/2.6.4_2/lib/ruby/2.6.0/irb/cmd" />
-        <root url="file:///usr/local/Cellar/ruby/2.6.4_2/lib/ruby/2.6.0/irb/ext" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/irb-1.0.0/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/irb-1.0.0/exe" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/irb-1.0.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file:///usr/local/Cellar/ruby/2.6.4_2/lib/ruby/2.6.0/irb/lc" />
-        <root url="file:///usr/local/Cellar/ruby/2.6.4_2/lib/ruby/2.6.0/irb/cmd" />
-        <root url="file:///usr/local/Cellar/ruby/2.6.4_2/lib/ruby/2.6.0/irb/ext" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/irb-1.0.0/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/irb-1.0.0/exe" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/irb-1.0.0/lib" />
       </SOURCES>
       <excluded>
-        <root url="file:///usr/local/Cellar/ruby/2.6.4_2/lib/ruby/2.6.0/irb/lc" />
-        <root url="file:///usr/local/Cellar/ruby/2.6.4_2/lib/ruby/2.6.0/irb/cmd" />
-        <root url="file:///usr/local/Cellar/ruby/2.6.4_2/lib/ruby/2.6.0/irb/ext" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/irb-1.0.0/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/irb-1.0.0/exe" />
       </excluded>
     </library>
     <library name="jaro_winkler (v1.5.3, ruby-2.3.7-p456) [gem]" type="rubylib">
@@ -2346,7 +2364,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/json/2.2.0" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/json-2.2.0/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/json-2.2.0/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/json-2.2.0/java" />
@@ -2356,7 +2373,6 @@
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/json-2.2.0/references" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/json/2.2.0" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/json-2.2.0/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/json-2.2.0/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/json-2.2.0/java" />
