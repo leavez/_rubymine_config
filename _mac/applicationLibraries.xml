@@ -440,6 +440,25 @@
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-plugins-1.0.0/spec" />
       </excluded>
     </library>
+    <library name="cocoapods-project_builder (v1.0.0, ruby-2.6.4-p104) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-project_builder-1.0.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-project_builder-1.0.0/spec" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-project_builder-1.0.0/scripts" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-project_builder-1.0.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-project_builder-1.0.0/spec" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-project_builder-1.0.0/scripts" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-project_builder-1.0.0/spec" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-project_builder-1.0.0/scripts" />
+      </excluded>
+    </library>
     <library name="cocoapods-rock (v0.0.1@bb684a, ruby-2.6.4-p104) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
