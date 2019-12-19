@@ -215,22 +215,6 @@
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/claide-1.0.2/lib" />
       </SOURCES>
     </library>
-    <library name="cocoapods (v1.7.5, ruby-2.6.4-p104) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-1.7.5/bin" />
-        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-1.7.5/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-1.7.5/bin" />
-        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-1.7.5/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-1.7.5/bin" />
-      </excluded>
-    </library>
     <library name="cocoapods-core (v1.5.3, ruby-2.6.4-p104) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
