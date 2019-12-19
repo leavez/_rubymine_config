@@ -215,6 +215,22 @@
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/claide-1.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="cocoapods (v1.6.2, ruby-2.6.4-p104) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-1.6.2/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-1.6.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-1.6.2/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-1.6.2/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-1.6.2/bin" />
+      </excluded>
+    </library>
     <library name="cocoapods-core (v1.5.3, ruby-2.6.4-p104) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -235,6 +251,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-core-1.6.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="cocoapods-core (v1.6.2, ruby-2.6.4-p104) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-core-1.6.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-core-1.6.2/lib" />
       </SOURCES>
     </library>
     <library name="cocoapods-core (v1.7.5, ruby-2.6.4-p104) [gem]" type="rubylib">
@@ -1446,6 +1473,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/json/2.2.0" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/json-2.2.0/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/json-2.2.0/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/json-2.2.0/java" />
@@ -1455,6 +1483,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/json-2.2.0/references" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/json/2.2.0" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/json-2.2.0/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/json-2.2.0/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/json-2.2.0/java" />
