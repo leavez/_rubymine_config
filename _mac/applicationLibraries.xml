@@ -1103,11 +1103,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/ffi/1.12.2" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/ffi-1.12.2/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/ffi-1.12.2/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/ffi-1.12.2/samples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/ffi/1.12.2" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/ffi-1.12.2/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/ffi-1.12.2/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/ffi-1.12.2/samples" />
@@ -1425,11 +1427,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/http-parser/1.2.1" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/http-parser-1.2.1/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/http-parser-1.2.1/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/http-parser-1.2.1/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/http-parser/1.2.1" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/http-parser-1.2.1/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/http-parser-1.2.1/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/http-parser-1.2.1/spec" />
@@ -1504,10 +1508,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/jaro_winkler/1.5.3" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/jaro_winkler-1.5.3/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/jaro_winkler-1.5.3/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/jaro_winkler/1.5.3" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/jaro_winkler-1.5.3/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/jaro_winkler-1.5.3/lib" />
       </SOURCES>
@@ -1520,6 +1526,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/json/2.2.0" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/json-2.2.0/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/json-2.2.0/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/json-2.2.0/java" />
@@ -1529,6 +1536,7 @@
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/json-2.2.0/references" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/json/2.2.0" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/json-2.2.0/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/json-2.2.0/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/json-2.2.0/java" />
@@ -1947,12 +1955,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nokogiri/1.10.3" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.3/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.3/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.3/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.3/patches" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nokogiri/1.10.3" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.3/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.3/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.3/lib" />
