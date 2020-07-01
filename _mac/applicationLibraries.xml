@@ -11,37 +11,26 @@
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/activesupport-4.2.11.1/lib" />
       </SOURCES>
     </library>
-    <library name="activesupport (v4.2.11.3, ruby-2.6.4-p104) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/activesupport-4.2.11.3/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/activesupport-4.2.11.3/lib" />
-      </SOURCES>
-    </library>
     <library name="addressable (v2.7.0, ruby-2.6.4-p104) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/addressable-2.7.0/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/addressable-2.7.0/data" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/addressable-2.7.0/spec" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/addressable-2.7.0/tasks" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/addressable-2.7.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/addressable-2.7.0/data" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/addressable-2.7.0/spec" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/addressable-2.7.0/tasks" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/addressable-2.7.0/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/addressable-2.7.0/data" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/addressable-2.7.0/spec" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/addressable-2.7.0/tasks" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/addressable-2.7.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/addressable-2.7.0/data" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/addressable-2.7.0/spec" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/addressable-2.7.0/tasks" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/addressable-2.7.0/data" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/addressable-2.7.0/spec" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/addressable-2.7.0/tasks" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/addressable-2.7.0/data" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/addressable-2.7.0/spec" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/addressable-2.7.0/tasks" />
       </excluded>
     </library>
     <library name="algoliasearch (v1.27.1, ruby-2.6.4-p104) [gem]" type="rubylib">
@@ -84,15 +73,15 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/atomos-0.1.3/bin" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/atomos-0.1.3/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/atomos-0.1.3/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/atomos-0.1.3/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/atomos-0.1.3/bin" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/atomos-0.1.3/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/atomos-0.1.3/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/atomos-0.1.3/lib" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/atomos-0.1.3/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/atomos-0.1.3/bin" />
       </excluded>
     </library>
     <library name="babosa (v1.0.3, ruby-2.6.4-p104) [gem]" type="rubylib">
@@ -208,17 +197,6 @@
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/CFPropertyList-3.0.0/lib" />
       </SOURCES>
     </library>
-    <library name="CFPropertyList (v3.0.2, ruby-2.6.4-p104) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/CFPropertyList-3.0.2/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/CFPropertyList-3.0.2/lib" />
-      </SOURCES>
-    </library>
     <library name="claide (v1.0.2, ruby-2.6.4-p104) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -228,17 +206,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/claide-1.0.2/lib" />
-      </SOURCES>
-    </library>
-    <library name="claide (v1.0.3, ruby-2.6.4-p104) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/claide-1.0.3/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/claide-1.0.3/lib" />
       </SOURCES>
     </library>
     <library name="cocoapods (v1.6.2, ruby-2.6.4-p104) [gem]" type="rubylib">
@@ -255,22 +222,6 @@
       </SOURCES>
       <excluded>
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-1.6.2/bin" />
-      </excluded>
-    </library>
-    <library name="cocoapods (v1.7.4, ruby-2.6.4-p104) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/cocoapods-1.7.4/bin" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/cocoapods-1.7.4/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/cocoapods-1.7.4/bin" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/cocoapods-1.7.4/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/cocoapods-1.7.4/bin" />
       </excluded>
     </library>
     <library name="cocoapods (v1.9.1, ruby-2.6.4-p104) [gem]" type="rubylib">
@@ -320,17 +271,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-core-1.6.2/lib" />
-      </SOURCES>
-    </library>
-    <library name="cocoapods-core (v1.7.4, ruby-2.6.4-p104) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/cocoapods-core-1.7.4/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/cocoapods-core-1.7.4/lib" />
       </SOURCES>
     </library>
     <library name="cocoapods-core (v1.7.5, ruby-2.6.4-p104) [gem]" type="rubylib">
@@ -393,10 +333,10 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/cocoapods-deintegrate-1.0.4/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-deintegrate-1.0.4/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/cocoapods-deintegrate-1.0.4/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-deintegrate-1.0.4/lib" />
       </SOURCES>
     </library>
     <library name="cocoapods-downloader (v1.2.2, ruby-2.6.4-p104) [gem]" type="rubylib">
@@ -408,17 +348,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-downloader-1.2.2/lib" />
-      </SOURCES>
-    </library>
-    <library name="cocoapods-downloader (v1.3.0, ruby-2.6.4-p104) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/cocoapods-downloader-1.3.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/cocoapods-downloader-1.3.0/lib" />
       </SOURCES>
     </library>
     <library name="cocoapods-fast-install (v0.0.3, ruby-2.6.4-p104) [gem]" type="rubylib">
@@ -550,15 +479,15 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/cocoapods-plugins-1.0.0/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/cocoapods-plugins-1.0.0/spec" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-plugins-1.0.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-plugins-1.0.0/spec" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/cocoapods-plugins-1.0.0/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/cocoapods-plugins-1.0.0/spec" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-plugins-1.0.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-plugins-1.0.0/spec" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/cocoapods-plugins-1.0.0/spec" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-plugins-1.0.0/spec" />
       </excluded>
     </library>
     <library name="cocoapods-project_builder (v1.0.3, ruby-2.6.4-p104) [gem]" type="rubylib">
@@ -623,15 +552,15 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/cocoapods-search-1.0.0/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/cocoapods-search-1.0.0/spec" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-search-1.0.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-search-1.0.0/spec" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/cocoapods-search-1.0.0/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/cocoapods-search-1.0.0/spec" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-search-1.0.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-search-1.0.0/spec" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/cocoapods-search-1.0.0/spec" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-search-1.0.0/spec" />
       </excluded>
     </library>
     <library name="cocoapods-static-swift-framework (v0.5, ruby-2.6.4-p104) [gem]" type="rubylib">
@@ -655,15 +584,15 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/cocoapods-stats-1.1.0/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/cocoapods-stats-1.1.0/spec" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-stats-1.1.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-stats-1.1.0/spec" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/cocoapods-stats-1.1.0/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/cocoapods-stats-1.1.0/spec" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-stats-1.1.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-stats-1.1.0/spec" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/cocoapods-stats-1.1.0/spec" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-stats-1.1.0/spec" />
       </excluded>
     </library>
     <library name="cocoapods-trunk (v1.3.1, ruby-2.6.4-p104) [gem]" type="rubylib">
@@ -698,22 +627,6 @@
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-trunk-1.4.1/spec" />
       </excluded>
     </library>
-    <library name="cocoapods-trunk (v1.5.0, ruby-2.6.4-p104) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/cocoapods-trunk-1.5.0/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/cocoapods-trunk-1.5.0/spec" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/cocoapods-trunk-1.5.0/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/cocoapods-trunk-1.5.0/spec" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/cocoapods-trunk-1.5.0/spec" />
-      </excluded>
-    </library>
     <library name="cocoapods-try (v1.1.0, ruby-2.6.4-p104) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -728,22 +641,6 @@
       </SOURCES>
       <excluded>
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/cocoapods-try-1.1.0/spec" />
-      </excluded>
-    </library>
-    <library name="cocoapods-try (v1.2.0, ruby-2.6.4-p104) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/cocoapods-try-1.2.0/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/cocoapods-try-1.2.0/spec" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/cocoapods-try-1.2.0/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/cocoapods-try-1.2.0/spec" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/cocoapods-try-1.2.0/spec" />
       </excluded>
     </library>
     <library name="colored (v1.2, ruby-2.6.4-p104) [gem]" type="rubylib">
@@ -767,15 +664,15 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/colored2-3.1.2/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/colored2-3.1.2/spec" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/colored2-3.1.2/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/colored2-3.1.2/spec" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/colored2-3.1.2/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/colored2-3.1.2/spec" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/colored2-3.1.2/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/colored2-3.1.2/spec" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/colored2-3.1.2/spec" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/colored2-3.1.2/spec" />
       </excluded>
     </library>
     <library name="colorize (v0.8.1, ruby-2.6.4-p104) [gem]" type="rubylib">
@@ -827,23 +724,6 @@
       </SOURCES>
       <excluded>
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/concurrent-ruby-1.1.5/ext" />
-      </excluded>
-    </library>
-    <library name="concurrent-ruby (v1.1.6, ruby-2.6.4-p104) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/concurrent-ruby-1.1.6/ext" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/concurrent-ruby-1.1.6/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/concurrent-ruby-1.1.6/ext" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/concurrent-ruby-1.1.6/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/concurrent-ruby-1.1.6/ext" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/concurrent-ruby-1.1.6/lib" />
       </excluded>
     </library>
     <library name="debase (v0.2.4.1, ruby-2.6.4-p104) [gem]" type="rubylib">
@@ -998,21 +878,21 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/domain_name-0.5.20190701/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/domain_name-0.5.20190701/data" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/domain_name-0.5.20190701/test" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/domain_name-0.5.20190701/tool" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/domain_name-0.5.20190701/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/domain_name-0.5.20190701/data" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/domain_name-0.5.20190701/test" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/domain_name-0.5.20190701/tool" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/domain_name-0.5.20190701/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/domain_name-0.5.20190701/data" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/domain_name-0.5.20190701/test" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/domain_name-0.5.20190701/tool" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/domain_name-0.5.20190701/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/domain_name-0.5.20190701/data" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/domain_name-0.5.20190701/test" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/domain_name-0.5.20190701/tool" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/domain_name-0.5.20190701/data" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/domain_name-0.5.20190701/test" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/domain_name-0.5.20190701/tool" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/domain_name-0.5.20190701/data" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/domain_name-0.5.20190701/test" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/domain_name-0.5.20190701/tool" />
       </excluded>
     </library>
     <library name="dotenv (v2.7.5, ruby-2.6.4-p104) [gem]" type="rubylib">
@@ -1047,15 +927,15 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/escape-0.0.4/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/escape-0.0.4/doc_include" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/escape-0.0.4/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/escape-0.0.4/doc_include" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/escape-0.0.4/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/escape-0.0.4/doc_include" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/escape-0.0.4/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/escape-0.0.4/doc_include" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/escape-0.0.4/doc_include" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/escape-0.0.4/doc_include" />
       </excluded>
     </library>
     <library name="ethon (v0.12.0, ruby-2.6.4-p104) [gem]" type="rubylib">
@@ -1223,11 +1103,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/ffi/1.12.2" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/ffi-1.12.2/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/ffi-1.12.2/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/ffi-1.12.2/samples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/ffi/1.12.2" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/ffi-1.12.2/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/ffi-1.12.2/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/ffi-1.12.2/samples" />
@@ -1235,30 +1117,6 @@
       <excluded>
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/ffi-1.12.2/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/ffi-1.12.2/samples" />
-      </excluded>
-    </library>
-    <library name="ffi (v1.13.1, ruby-2.6.4-p104) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/ffi/1.13.1" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/ffi-1.13.1/ext" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/ffi-1.13.1/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/ffi-1.13.1/.github" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/ffi-1.13.1/samples" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/ffi/1.13.1" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/ffi-1.13.1/ext" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/ffi-1.13.1/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/ffi-1.13.1/.github" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/ffi-1.13.1/samples" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/ffi-1.13.1/ext" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/ffi-1.13.1/.github" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/ffi-1.13.1/samples" />
       </excluded>
     </library>
     <library name="ffi-compiler (v1.0.1, ruby-2.6.4-p104) [gem]" type="rubylib">
@@ -1266,10 +1124,10 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/ffi-compiler-1.0.1/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/ffi-compiler-1.0.1/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/ffi-compiler-1.0.1/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/ffi-compiler-1.0.1/lib" />
       </SOURCES>
     </library>
     <library name="fourflusher (v2.0.1, ruby-2.6.4-p104) [gem]" type="rubylib">
@@ -1325,15 +1183,15 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/fourflusher-2.3.1/bin" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/fourflusher-2.3.1/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/fourflusher-2.3.1/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/fourflusher-2.3.1/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/fourflusher-2.3.1/bin" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/fourflusher-2.3.1/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/fourflusher-2.3.1/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/fourflusher-2.3.1/lib" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/fourflusher-2.3.1/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/fourflusher-2.3.1/bin" />
       </excluded>
     </library>
     <library name="fuzzy_match (v2.0.4, ruby-2.6.4-p104) [gem]" type="rubylib">
@@ -1341,21 +1199,21 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/fuzzy_match-2.0.4/bin" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/fuzzy_match-2.0.4/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/fuzzy_match-2.0.4/spec" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/fuzzy_match-2.0.4/benchmark" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/fuzzy_match-2.0.4/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/fuzzy_match-2.0.4/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/fuzzy_match-2.0.4/spec" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/fuzzy_match-2.0.4/benchmark" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/fuzzy_match-2.0.4/bin" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/fuzzy_match-2.0.4/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/fuzzy_match-2.0.4/spec" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/fuzzy_match-2.0.4/benchmark" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/fuzzy_match-2.0.4/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/fuzzy_match-2.0.4/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/fuzzy_match-2.0.4/spec" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/fuzzy_match-2.0.4/benchmark" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/fuzzy_match-2.0.4/bin" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/fuzzy_match-2.0.4/spec" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/fuzzy_match-2.0.4/benchmark" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/fuzzy_match-2.0.4/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/fuzzy_match-2.0.4/spec" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/fuzzy_match-2.0.4/benchmark" />
       </excluded>
     </library>
     <library name="gh_inspector (v1.1.3, ruby-2.6.4-p104) [gem]" type="rubylib">
@@ -1363,15 +1221,15 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/gh_inspector-1.1.3/bin" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/gh_inspector-1.1.3/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/gh_inspector-1.1.3/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/gh_inspector-1.1.3/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/gh_inspector-1.1.3/bin" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/gh_inspector-1.1.3/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/gh_inspector-1.1.3/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/gh_inspector-1.1.3/lib" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/gh_inspector-1.1.3/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/gh_inspector-1.1.3/bin" />
       </excluded>
     </library>
     <library name="google-api-client (v0.23.9, ruby-2.6.4-p104) [gem]" type="rubylib">
@@ -1521,15 +1379,15 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/http-4.4.1/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/http-4.4.1/spec" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/http-4.4.1/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/http-4.4.1/spec" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/http-4.4.1/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/http-4.4.1/spec" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/http-4.4.1/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/http-4.4.1/spec" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/http-4.4.1/spec" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/http-4.4.1/spec" />
       </excluded>
     </library>
     <library name="http-cookie (v1.0.3, ruby-2.6.4-p104) [gem]" type="rubylib">
@@ -1537,15 +1395,15 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/http-cookie-1.0.3/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/http-cookie-1.0.3/test" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/http-cookie-1.0.3/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/http-cookie-1.0.3/test" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/http-cookie-1.0.3/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/http-cookie-1.0.3/test" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/http-cookie-1.0.3/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/http-cookie-1.0.3/test" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/http-cookie-1.0.3/test" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/http-cookie-1.0.3/test" />
       </excluded>
     </library>
     <library name="http-form_data (v2.3.0, ruby-2.6.4-p104) [gem]" type="rubylib">
@@ -1553,15 +1411,15 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/http-form_data-2.3.0/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/http-form_data-2.3.0/spec" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/http-form_data-2.3.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/http-form_data-2.3.0/spec" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/http-form_data-2.3.0/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/http-form_data-2.3.0/spec" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/http-form_data-2.3.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/http-form_data-2.3.0/spec" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/http-form_data-2.3.0/spec" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/http-form_data-2.3.0/spec" />
       </excluded>
     </library>
     <library name="http-parser (v1.2.1, ruby-2.6.4-p104) [gem]" type="rubylib">
@@ -1570,47 +1428,19 @@
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/http-parser/1.2.1" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/http-parser-1.2.1/ext" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/http-parser-1.2.1/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/http-parser-1.2.1/spec" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/http-parser-1.2.1/ext" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/http-parser-1.2.1/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/http-parser-1.2.1/spec" />
       </CLASSES>
       <SOURCES>
         <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/http-parser/1.2.1" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/http-parser-1.2.1/ext" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/http-parser-1.2.1/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/http-parser-1.2.1/spec" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/http-parser-1.2.1/ext" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/http-parser-1.2.1/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/http-parser-1.2.1/spec" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/http-parser-1.2.1/ext" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/http-parser-1.2.1/spec" />
-      </excluded>
-    </library>
-    <library name="httparty (v0.18.0, ruby-2.6.4-p104) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/httparty-0.18.0/bin" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/httparty-0.18.0/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/httparty-0.18.0/docs" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/httparty-0.18.0/script" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/httparty-0.18.0/website" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/httparty-0.18.0/examples" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/httparty-0.18.0/bin" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/httparty-0.18.0/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/httparty-0.18.0/docs" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/httparty-0.18.0/script" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/httparty-0.18.0/website" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/httparty-0.18.0/examples" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/httparty-0.18.0/bin" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/httparty-0.18.0/docs" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/httparty-0.18.0/script" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/httparty-0.18.0/website" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/httparty-0.18.0/examples" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/http-parser-1.2.1/ext" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/http-parser-1.2.1/spec" />
       </excluded>
     </library>
     <library name="httpclient (v2.8.3, ruby-2.6.4-p104) [gem]" type="rubylib">
@@ -1640,18 +1470,18 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/i18n-0.9.5/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/i18n-0.9.5/test" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/i18n-0.9.5/gemfiles" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/i18n-0.9.5/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/i18n-0.9.5/test" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/i18n-0.9.5/gemfiles" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/i18n-0.9.5/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/i18n-0.9.5/test" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/i18n-0.9.5/gemfiles" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/i18n-0.9.5/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/i18n-0.9.5/test" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/i18n-0.9.5/gemfiles" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/i18n-0.9.5/test" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/i18n-0.9.5/gemfiles" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/i18n-0.9.5/test" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/i18n-0.9.5/gemfiles" />
       </excluded>
     </library>
     <library name="irb (v1.0.0, ruby-2.6.4-p104) [gem]" type="rubylib">
@@ -1901,22 +1731,6 @@
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/mime-types-3.3/test" />
       </excluded>
     </library>
-    <library name="mime-types (v3.3.1, ruby-2.6.4-p104) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/mime-types-3.3.1/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/mime-types-3.3.1/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/mime-types-3.3.1/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/mime-types-3.3.1/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/mime-types-3.3.1/test" />
-      </excluded>
-    </library>
     <library name="mime-types-data (v3.2019.1009, ruby-2.6.4-p104) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1936,25 +1750,6 @@
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/mime-types-data-3.2019.1009/types" />
       </excluded>
     </library>
-    <library name="mime-types-data (v3.2020.0512, ruby-2.6.4-p104) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/mime-types-data-3.2020.0512/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/mime-types-data-3.2020.0512/data" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/mime-types-data-3.2020.0512/types" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/mime-types-data-3.2020.0512/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/mime-types-data-3.2020.0512/data" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/mime-types-data-3.2020.0512/types" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/mime-types-data-3.2020.0512/data" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/mime-types-data-3.2020.0512/types" />
-      </excluded>
-    </library>
     <library name="mini_magick (v4.9.5, ruby-2.6.4-p104) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1971,18 +1766,18 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/mini_portile2-2.4.0/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/mini_portile2-2.4.0/test" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/mini_portile2-2.4.0/concourse" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/mini_portile2-2.4.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/mini_portile2-2.4.0/test" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/mini_portile2-2.4.0/concourse" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/mini_portile2-2.4.0/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/mini_portile2-2.4.0/test" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/mini_portile2-2.4.0/concourse" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/mini_portile2-2.4.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/mini_portile2-2.4.0/test" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/mini_portile2-2.4.0/concourse" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/mini_portile2-2.4.0/test" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/mini_portile2-2.4.0/concourse" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/mini_portile2-2.4.0/test" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/mini_portile2-2.4.0/concourse" />
       </excluded>
     </library>
     <library name="minitest (v5.11.3, ruby-2.6.4-p104) [gem]" type="rubylib">
@@ -2001,31 +1796,15 @@
         <root url="file:///usr/local/Cellar/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/minitest-5.11.3/test" />
       </excluded>
     </library>
-    <library name="minitest (v5.14.1, ruby-2.6.4-p104) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/minitest-5.14.1/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/minitest-5.14.1/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/minitest-5.14.1/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/minitest-5.14.1/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/minitest-5.14.1/test" />
-      </excluded>
-    </library>
     <library name="molinillo (v0.6.6, ruby-2.6.4-p104) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/molinillo-0.6.6/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/molinillo-0.6.6/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/molinillo-0.6.6/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/molinillo-0.6.6/lib" />
       </SOURCES>
     </library>
     <library name="multi_json (v1.14.1, ruby-2.6.4-p104) [gem]" type="rubylib">
@@ -2044,10 +1823,10 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/multi_xml-0.6.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/multi_xml-0.6.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/multi_xml-0.6.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/multi_xml-0.6.0/lib" />
       </SOURCES>
     </library>
     <library name="multipart-post (v2.0.0, ruby-2.6.4-p104) [gem]" type="rubylib">
@@ -2071,15 +1850,15 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/nanaimo-0.2.6/bin" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/nanaimo-0.2.6/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/nanaimo-0.2.6/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/nanaimo-0.2.6/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/nanaimo-0.2.6/bin" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/nanaimo-0.2.6/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/nanaimo-0.2.6/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/nanaimo-0.2.6/lib" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/nanaimo-0.2.6/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/nanaimo-0.2.6/bin" />
       </excluded>
     </library>
     <library name="nap (v1.1.0, ruby-2.6.4-p104) [gem]" type="rubylib">
@@ -2087,15 +1866,15 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/nap-1.1.0/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/nap-1.1.0/support" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/nap-1.1.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/nap-1.1.0/support" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/nap-1.1.0/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/nap-1.1.0/support" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/nap-1.1.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/nap-1.1.0/support" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/nap-1.1.0/support" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/nap-1.1.0/support" />
       </excluded>
     </library>
     <library name="naturally (v2.2.0, ruby-2.6.4-p104) [gem]" type="rubylib">
@@ -2157,18 +1936,18 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/netrc-0.11.0/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/netrc-0.11.0/data" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/netrc-0.11.0/test" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/netrc-0.11.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/netrc-0.11.0/data" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/netrc-0.11.0/test" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/netrc-0.11.0/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/netrc-0.11.0/data" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/netrc-0.11.0/test" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/netrc-0.11.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/netrc-0.11.0/data" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/netrc-0.11.0/test" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/netrc-0.11.0/data" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/netrc-0.11.0/test" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/netrc-0.11.0/data" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/netrc-0.11.0/test" />
       </excluded>
     </library>
     <library name="nokogiri (v1.10.3, ruby-2.6.4-p104) [gem]" type="rubylib">
@@ -2176,12 +1955,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nokogiri/1.10.3" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.3/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.3/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.3/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.3/patches" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nokogiri/1.10.3" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.3/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.3/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.3/lib" />
@@ -2191,30 +1972,6 @@
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.3/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.3/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.3/patches" />
-      </excluded>
-    </library>
-    <library name="nokogiri (v1.10.9, ruby-2.6.4-p104) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nokogiri/1.10.9" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/nokogiri-1.10.9/bin" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/nokogiri-1.10.9/ext" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/nokogiri-1.10.9/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/nokogiri-1.10.9/patches" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nokogiri/1.10.9" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/nokogiri-1.10.9/bin" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/nokogiri-1.10.9/ext" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/nokogiri-1.10.9/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/nokogiri-1.10.9/patches" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/nokogiri-1.10.9/bin" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/nokogiri-1.10.9/ext" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/nokogiri-1.10.9/patches" />
       </excluded>
     </library>
     <library name="os (v1.0.1, ruby-2.6.4-p104) [gem]" type="rubylib">
@@ -2318,31 +2075,6 @@
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/public_suffix-2.0.5/test" />
       </excluded>
     </library>
-    <library name="public_suffix (v4.0.5, ruby-2.6.4-p104) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/public_suffix-4.0.5/bin" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/public_suffix-4.0.5/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/public_suffix-4.0.5/data" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/public_suffix-4.0.5/test" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/public_suffix-4.0.5/.github" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/public_suffix-4.0.5/bin" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/public_suffix-4.0.5/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/public_suffix-4.0.5/data" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/public_suffix-4.0.5/test" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/public_suffix-4.0.5/.github" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/public_suffix-4.0.5/bin" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/public_suffix-4.0.5/data" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/public_suffix-4.0.5/test" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/public_suffix-4.0.5/.github" />
-      </excluded>
-    </library>
     <library name="rainbow (v3.0.0, ruby-2.6.4-p104) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2404,31 +2136,6 @@
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/rake-13.0.0/doc" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/rake-13.0.0/exe" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/rake-13.0.0/.github" />
-      </excluded>
-    </library>
-    <library name="rake (v13.0.1, ruby-2.6.4-p104) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/rake-13.0.1/bin" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/rake-13.0.1/doc" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/rake-13.0.1/exe" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/rake-13.0.1/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/rake-13.0.1/.github" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/rake-13.0.1/bin" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/rake-13.0.1/doc" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/rake-13.0.1/exe" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/rake-13.0.1/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/rake-13.0.1/.github" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/rake-13.0.1/bin" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/rake-13.0.1/doc" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/rake-13.0.1/exe" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/rake-13.0.1/.github" />
       </excluded>
     </library>
     <library name="representable (v3.0.4, ruby-2.6.4-p104) [gem]" type="rubylib">
@@ -2645,10 +2352,10 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/ruby-macho-1.4.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/ruby-macho-1.4.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/ruby-macho-1.4.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/ruby-macho-1.4.0/lib" />
       </SOURCES>
     </library>
     <library name="ruby-progressbar (v1.10.1, ruby-2.6.4-p104) [gem]" type="rubylib">
@@ -2842,27 +2549,27 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/thread_safe-0.3.6/ext" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/thread_safe-0.3.6/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/thread_safe-0.3.6/spec" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/thread_safe-0.3.6/tasks" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/thread_safe-0.3.6/examples" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/thread_safe-0.3.6/yard-template" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/thread_safe-0.3.6/ext" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/thread_safe-0.3.6/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/thread_safe-0.3.6/spec" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/thread_safe-0.3.6/tasks" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/thread_safe-0.3.6/examples" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/thread_safe-0.3.6/yard-template" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/thread_safe-0.3.6/ext" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/thread_safe-0.3.6/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/thread_safe-0.3.6/spec" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/thread_safe-0.3.6/tasks" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/thread_safe-0.3.6/examples" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/thread_safe-0.3.6/yard-template" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/thread_safe-0.3.6/ext" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/thread_safe-0.3.6/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/thread_safe-0.3.6/spec" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/thread_safe-0.3.6/tasks" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/thread_safe-0.3.6/examples" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/thread_safe-0.3.6/yard-template" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/thread_safe-0.3.6/ext" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/thread_safe-0.3.6/spec" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/thread_safe-0.3.6/tasks" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/thread_safe-0.3.6/examples" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/thread_safe-0.3.6/yard-template" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/thread_safe-0.3.6/ext" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/thread_safe-0.3.6/spec" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/thread_safe-0.3.6/tasks" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/thread_safe-0.3.6/examples" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/thread_safe-0.3.6/yard-template" />
       </excluded>
     </library>
     <library name="tilt (v2.0.9, ruby-2.6.4-p104) [gem]" type="rubylib">
@@ -2985,22 +2692,6 @@
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/tzinfo-1.2.5/test" />
       </excluded>
     </library>
-    <library name="tzinfo (v1.2.7, ruby-2.6.4-p104) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/tzinfo-1.2.7/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/tzinfo-1.2.7/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/tzinfo-1.2.7/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/tzinfo-1.2.7/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/tzinfo-1.2.7/test" />
-      </excluded>
-    </library>
     <library name="uber (v0.1.0, ruby-2.6.4-p104) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3022,15 +2713,15 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/unf-0.1.4/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/unf-0.1.4/test" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/unf-0.1.4/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/unf-0.1.4/test" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/unf-0.1.4/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/unf-0.1.4/test" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/unf-0.1.4/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/unf-0.1.4/test" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/unf-0.1.4/test" />
+        <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/unf-0.1.4/test" />
       </excluded>
     </library>
     <library name="unf_ext (v0.0.7.6, ruby-2.6.4-p104) [gem]" type="rubylib">
@@ -3050,25 +2741,6 @@
       <excluded>
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/unf_ext-0.0.7.6/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/unf_ext-0.0.7.6/test" />
-      </excluded>
-    </library>
-    <library name="unf_ext (v0.0.7.7, ruby-2.6.4-p104) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/unf_ext-0.0.7.7/ext" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/unf_ext-0.0.7.7/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/unf_ext-0.0.7.7/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/unf_ext-0.0.7.7/ext" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/unf_ext-0.0.7.7/lib" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/unf_ext-0.0.7.7/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/unf_ext-0.0.7.7/ext" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/unf_ext-0.0.7.7/test" />
       </excluded>
     </library>
     <library name="unicode-display_width (v1.6.0, ruby-2.6.4-p104) [gem]" type="rubylib">
@@ -3174,22 +2846,6 @@
       </SOURCES>
       <excluded>
         <root url="file:///usr/local/lib/ruby/gems/2.6.0/gems/xcodeproj-1.15.0/bin" />
-      </excluded>
-    </library>
-    <library name="xcodeproj (v1.16.0, ruby-2.6.4-p104) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/xcodeproj-1.16.0/bin" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/xcodeproj-1.16.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/xcodeproj-1.16.0/bin" />
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/xcodeproj-1.16.0/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/byte/ModuleUpgrade/.PROTABLE_IMAGE/_ruby/gems/ruby/2.6.0/gems/xcodeproj-1.16.0/bin" />
       </excluded>
     </library>
     <library name="xcodeproj (v1.8.1, ruby-2.6.4-p104) [gem]" type="rubylib">
